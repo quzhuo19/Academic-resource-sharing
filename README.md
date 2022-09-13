@@ -16,4 +16,6 @@
 * [1997年投稿，2021年发表！文章接受那一刻，作者或已白发苍苍…](https://mp.weixin.qq.com/s/GT73w3opeRQquutxI-Ld1Q)  
 * [为什么审稿人建议接收的文章，编辑却拒稿了](https://mp.weixin.qq.com/s/PizoWSgjq6cvwh2oMd8slg)
 * [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…](https://mp.weixin.qq.com/s/FYMGVLu2-e442QxHHTk9mA)
+* [如何在 IEEE 期刊上发表文章：指导与技巧（视频）](https://mp.weixin.qq.com/s/FyBEje4LR03_CqqFhzRR7A)
+
 
