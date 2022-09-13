@@ -3,6 +3,8 @@
 ## 组内学术成果分享
 
 * [MKANet: An Efficient Network with Sobel Boundary Loss for Land-Cover Classification of Satellite Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/18/4514)
+* [Expandable On-Board Real-Time Edge Computing Architecture for Luojia3 Intelligent Remote Sensing Satellite](https://www.mdpi.com/2072-4292/14/15/3596) 
+
 
 ## 学术会议录屏
 
