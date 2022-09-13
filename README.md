@@ -19,6 +19,8 @@
 ## 学习资源
 
 * [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://mp.weixin.qq.com/s/0NlCa_1NO3PuQEOUB1Bf9A)
+* [有了这个机器学习画图神器，论文、博客都可以事半功倍了！](https://mp.weixin.qq.com/s/Y3YUn6Ib7_LqHbaW0F7JgA)
+
 
 ## 投稿那些事
 * [1997年投稿，2021年发表！文章接受那一刻，作者或已白发苍苍…](https://mp.weixin.qq.com/s/GT73w3opeRQquutxI-Ld1Q)  
