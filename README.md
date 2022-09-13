@@ -4,6 +4,8 @@
 
 * [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
 * [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
+* [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
+
 
 
 ## 投稿那些事
