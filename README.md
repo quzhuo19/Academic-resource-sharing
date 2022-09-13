@@ -10,7 +10,9 @@
 * [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
 
+## 学习资源
 
+* [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://mp.weixin.qq.com/s/0NlCa_1NO3PuQEOUB1Bf9A)
 
 ## 投稿那些事
 * [1997年投稿，2021年发表！文章接受那一刻，作者或已白发苍苍…](https://mp.weixin.qq.com/s/GT73w3opeRQquutxI-Ld1Q)  
