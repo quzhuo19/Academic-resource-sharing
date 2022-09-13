@@ -1,5 +1,9 @@
 # Academic-resource-sharing
 
+## 学术会议录屏
+
+* [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4) 提取码:j2s4
+
 ## 文献分享
 
 * [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
