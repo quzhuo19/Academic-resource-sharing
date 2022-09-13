@@ -34,4 +34,8 @@
 * [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…](https://mp.weixin.qq.com/s/FYMGVLu2-e442QxHHTk9mA)
 * [如何在 IEEE 期刊上发表文章：指导与技巧（视频）](https://mp.weixin.qq.com/s/FyBEje4LR03_CqqFhzRR7A)
 
+## 好文分享
+
+* [一篇适合所有研究生读的好文：阳光温热,科研静好!](https://mp.weixin.qq.com/s/7NlERSqM3jIIdztK1ykdRw)
+
 
