@@ -1,5 +1,9 @@
 # Academic-resource-sharing
 
+## 组内学术成果分享
+
+* [MKANet: An Efficient Network with Sobel Boundary Loss for Land-Cover Classification of Satellite Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/18/4514)
+
 ## 学术会议录屏
 
 * [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4)
