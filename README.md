@@ -3,6 +3,8 @@
 ## 文献分享
 
 * [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
+* [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
+
 
 ## 投稿那些事
 * [1997年投稿，2021年发表！文章接受那一刻，作者或已白发苍苍…](https://mp.weixin.qq.com/s/GT73w3opeRQquutxI-Ld1Q)  
