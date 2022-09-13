@@ -10,6 +10,12 @@
 * [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
 
+## 大牛视野
+
+* [武大李德仁院士：万物互联时代的地球空间信息学](https://mp.weixin.qq.com/s/wQk7F5pb1N7PAZpXZ_m1cQ)
+* [西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？](https://mp.weixin.qq.com/s/o9ABVxQSpIia3nAA0QWR7g)
+
+
 ## 学习资源
 
 * [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://mp.weixin.qq.com/s/0NlCa_1NO3PuQEOUB1Bf9A)
