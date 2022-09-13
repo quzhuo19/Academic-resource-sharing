@@ -15,7 +15,11 @@
 * [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
 * [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
-* [王密：面向星群的遥感影像智能服务关键问题](https://mp.weixin.qq.com/s/voMQYbXuKHxaOD6S42bkrQ) 
+* [王密教授：面向星群的遥感影像智能服务关键问题](https://mp.weixin.qq.com/s/voMQYbXuKHxaOD6S42bkrQ) 
+* [GSIS年终盘点 | 高关注论文TOP10](https://mp.weixin.qq.com/s/g095vF5eKBWPxP8kz1QKyA)
+* [李德仁院士：中国高分辨率光学遥感卫星及其测绘应用](https://mp.weixin.qq.com/s/oCX1vf7Qmrg-NrwzrKa_QQ) 
+
+
 
 
 ## 大牛视野
@@ -40,8 +44,10 @@
 * [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…](https://mp.weixin.qq.com/s/FYMGVLu2-e442QxHHTk9mA)
 * [如何在 IEEE 期刊上发表文章：指导与技巧（视频）](https://mp.weixin.qq.com/s/FyBEje4LR03_CqqFhzRR7A)
 
-## 好文分享
+## 我的科研生活
 
 * [一篇适合所有研究生读的好文：阳光温热,科研静好!](https://mp.weixin.qq.com/s/7NlERSqM3jIIdztK1ykdRw)
+* [庄庆威——如何规划博士生生涯？以SCI论文写作和科研项目申请的视角](https://mp.weixin.qq.com/s/lPUZaKJiQETaKxeVrmWesA) 
+
 
 
