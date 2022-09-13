@@ -15,6 +15,8 @@
 * [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
 * [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
+* [王密：面向星群的遥感影像智能服务关键问题](https://mp.weixin.qq.com/s/voMQYbXuKHxaOD6S42bkrQ) 
+
 
 ## 大牛视野
 
@@ -26,6 +28,10 @@
 
 * [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://mp.weixin.qq.com/s/0NlCa_1NO3PuQEOUB1Bf9A)
 * [有了这个机器学习画图神器，论文、博客都可以事半功倍了！](https://mp.weixin.qq.com/s/Y3YUn6Ib7_LqHbaW0F7JgA)
+* [几种常用的多源遥感影像时空融合方法（附代码和插件）](https://mp.weixin.qq.com/s/lvwI59dDh85sNuRm1qnjDw)
+* [【深度学习训练】关于Batch Size的玄学](https://mp.weixin.qq.com/s/LcVQnQzszQ4UHN6E_OwtXQ) 
+ 
+
 
 
 ## 投稿那些事
