@@ -2,7 +2,7 @@
 
 ## 学术会议录屏
 
-* [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4) 提取码:j2s4
+* [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4)
 
 ## 文献分享
 
