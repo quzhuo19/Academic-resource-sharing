@@ -60,17 +60,23 @@
 * [【深度学习训练】关于Batch Size的玄学](https://mp.weixin.qq.com/s/LcVQnQzszQ4UHN6E_OwtXQ)
 * [相较神经网络，大名鼎鼎的傅里叶变换，为何没有一统函数逼近器？答案在这](https://mp.weixin.qq.com/s/LCjkd-Cv3lXcghaR5IZqTQ) 
 
-## 深度学习入门
-### 工具书
+## 深度学习入
 
-* [《Python编程：从入门到实践》](https://pan.baidu.com/s/1xVGoatZASv4VncU_TYkFBA?pwd=4p69)
-* [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
+* [PyTorch框架快速入门](https://www.bilibili.com/video/BV1hE411t7RN)
 * [动手学深度学习——李沐](https://github.com/Miraclelucy/dive_into_deep_learning)
 * [吴恩达深度学习](https://www.bilibili.com/video/av926316362) 
 * [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 * [Python官方文档](https://docs.python.org/zh-cn/3/tutorial/index.html) 
  
+## 资源下载
+### 数据集
+* 
 
 
+### 工具书
+* [《Python编程：从入门到实践》](https://pan.baidu.com/s/1xVGoatZASv4VncU_TYkFBA?pwd=4p69)
+* [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
+
+### 软件
  
 
