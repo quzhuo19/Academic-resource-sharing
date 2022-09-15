@@ -63,7 +63,7 @@
 ## 深度学习入门
 ### 工具书
 
-* [《Python编程：从入门到实践》]
+* [《Python编程：从入门到实践》](https://pan.baidu.com/s/1xVGoatZASv4VncU_TYkFBA?pwd=4p69)
 * [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
 * [动手学深度学习——李沐](https://github.com/Miraclelucy/dive_into_deep_learning)
 * [吴恩达深度学习](https://www.bilibili.com/video/av926316362) 
