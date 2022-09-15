@@ -9,8 +9,8 @@
 * [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4)
 
 ## 文献分享
-* [耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
-* [影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
+* [李彦胜教授：耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
+* [龚健雅院士：影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
 * [王密教授：面向星群的遥感影像智能服务关键问题](https://mp.weixin.qq.com/s/voMQYbXuKHxaOD6S42bkrQ) 
 * [GSIS年终盘点 | 高关注论文TOP10](https://mp.weixin.qq.com/s/g095vF5eKBWPxP8kz1QKyA)
@@ -18,7 +18,6 @@
 * [杨元喜院士：集成型与智能型测绘卫星工程发展及其关键技术](https://mp.weixin.qq.com/s/0sgx2dCjOOOF3NwnaRp03g)
 * [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
 * [智能遥感：AI 赋能遥感技术](https://mp.weixin.qq.com/s/l5bm-mP3yWS5PYnnYZOQAA)
-* [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
 * [CVPR 2021 论文大盘点-遥感影像篇](https://www.toutiao.com/article/7008086773607973387/?app=news_article&timestamp=1631714112&use_new_style=1&req_id=20210915215512010135164222350F41B4&group_id=7008086773607973387&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=03f7a9d5-297f-44e3-8d72-f9fb44370d06&source=m_redirect&wid=1663209093121) 
 * [龚健雅院士：遥感影像智能解译样本库现状与研究](https://mp.weixin.qq.com/s/HsX9XaYWDy-bT18AY0Nw3A)
 * [异源遥感影像特征匹配的深度学习算法](https://mp.weixin.qq.com/s/YTcC0Ip1Kx6srJf_0yHbJQ) 
