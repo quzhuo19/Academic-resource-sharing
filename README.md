@@ -61,4 +61,7 @@
 * [【深度学习训练】关于Batch Size的玄学](https://mp.weixin.qq.com/s/LcVQnQzszQ4UHN6E_OwtXQ)
 * [相较神经网络，大名鼎鼎的傅里叶变换，为何没有一统函数逼近器？答案在这](https://mp.weixin.qq.com/s/LCjkd-Cv3lXcghaR5IZqTQ) 
 
+## 深度学习入门
+### 工具书
 
+* [《Python编程：从入门到实践》]
