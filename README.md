@@ -28,6 +28,8 @@
 
 * [武大李德仁院士：万物互联时代的地球空间信息学](https://mp.weixin.qq.com/s/wQk7F5pb1N7PAZpXZ_m1cQ)
 * [西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？](https://mp.weixin.qq.com/s/o9ABVxQSpIia3nAA0QWR7g)
+* [武大龚健雅院士：遥感智能解译深度网络框架LuojiaNET研究进展与应用前景](https://mp.weixin.qq.com/s/JHCgjxzjILvaCnp77cTYYA) 
+
 
 
 ## 学习资源
