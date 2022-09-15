@@ -50,8 +50,7 @@
 ## 我的科研生活
 * [一篇适合所有研究生读的好文：阳光温热,科研静好!](https://mp.weixin.qq.com/s/7NlERSqM3jIIdztK1ykdRw)
 * [庄庆威——如何规划博士生生涯？以SCI论文写作和科研项目申请的视角](https://mp.weixin.qq.com/s/lPUZaKJiQETaKxeVrmWesA) 
-* [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/HbzUrL9PHRojvwnhBIZ7bw)
-* 
+* [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/HbzUrL9PHRojvwnhBIZ7bw) 
 
 
 ## 学习资源
@@ -65,5 +64,7 @@
 ### 工具书
 
 * [《Python编程：从入门到实践》]
-* [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587) 
+* [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
+* [动手学深度学习——李沐](https://github.com/Miraclelucy/dive_into_deep_learning)
+ 
 
