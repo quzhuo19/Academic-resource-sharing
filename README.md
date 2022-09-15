@@ -18,6 +18,8 @@
 * [王密教授：面向星群的遥感影像智能服务关键问题](https://mp.weixin.qq.com/s/voMQYbXuKHxaOD6S42bkrQ) 
 * [GSIS年终盘点 | 高关注论文TOP10](https://mp.weixin.qq.com/s/g095vF5eKBWPxP8kz1QKyA)
 * [李德仁院士：中国高分辨率光学遥感卫星及其测绘应用](https://mp.weixin.qq.com/s/oCX1vf7Qmrg-NrwzrKa_QQ) 
+* [杨元喜院士：集成型与智能型测绘卫星工程发展及其关键技术](https://mp.weixin.qq.com/s/0sgx2dCjOOOF3NwnaRp03g)
+* [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
 
 
 
