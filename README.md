@@ -43,7 +43,7 @@
 * [为什么审稿人建议接收的文章，编辑却拒稿了](https://mp.weixin.qq.com/s/PizoWSgjq6cvwh2oMd8slg)
 * [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…](https://mp.weixin.qq.com/s/FYMGVLu2-e442QxHHTk9mA)
 * [如何在 IEEE 期刊上发表文章：指导与技巧（视频）](https://mp.weixin.qq.com/s/FyBEje4LR03_CqqFhzRR7A)
-* [写好审稿回复信的8大要点（附模板）](https://mp.weixin.qq.com/s/Dep9HbxZNRBLbTO69fHGNA
+* [写好审稿回复信的8大要点（附模板）](https://mp.weixin.qq.com/s/Dep9HbxZNRBLbTO69fHGNA)
 * [SSCI发了还能再翻译发C刊吗？](https://mp.weixin.qq.com/s/Mrl_0o7T4_a_sC-0vHlJfA)
 
 
