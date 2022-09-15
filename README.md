@@ -76,6 +76,8 @@
 ### 工具书
 * [《Python编程：从入门到实践》](https://pan.baidu.com/s/1xVGoatZASv4VncU_TYkFBA?pwd=4p69)
 * [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
+* [《C++ primer plus》](https://pan.baidu.com/s/1ME84Z9ObLCt4guskdbZ_dA?pwd=2dcr)
+
 
 ### 软件
 * [ENVI 5.3](https://pan.baidu.com/s/1Szfspg4ZdSpcFeKXYD056Q?pwd=uv9a) [安装教程](https://blog.csdn.net/qq_45697428/article/details/118328147) 
