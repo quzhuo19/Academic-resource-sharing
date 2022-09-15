@@ -21,7 +21,7 @@
 * [杨元喜院士：集成型与智能型测绘卫星工程发展及其关键技术](https://mp.weixin.qq.com/s/0sgx2dCjOOOF3NwnaRp03g)
 * [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
 * [智能遥感：AI 赋能遥感技术](https://mp.weixin.qq.com/s/l5bm-mP3yWS5PYnnYZOQAA)
-
+* [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
 
 
 ## 大牛视野
@@ -53,6 +53,6 @@
 
 * [一篇适合所有研究生读的好文：阳光温热,科研静好!](https://mp.weixin.qq.com/s/7NlERSqM3jIIdztK1ykdRw)
 * [庄庆威——如何规划博士生生涯？以SCI论文写作和科研项目申请的视角](https://mp.weixin.qq.com/s/lPUZaKJiQETaKxeVrmWesA) 
-
+* [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/HbzUrL9PHRojvwnhBIZ7bw)
 
 
