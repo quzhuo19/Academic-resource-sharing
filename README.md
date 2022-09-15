@@ -67,6 +67,10 @@
 * [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
 * [动手学深度学习——李沐](https://github.com/Miraclelucy/dive_into_deep_learning)
 * [吴恩达深度学习](https://www.bilibili.com/video/av926316362) 
+* [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+* [Python官方文档](https://docs.python.org/zh-cn/3/tutorial/index.html) 
+ 
+
 
  
 
