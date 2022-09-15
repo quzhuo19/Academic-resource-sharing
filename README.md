@@ -53,7 +53,7 @@
 * [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/HbzUrL9PHRojvwnhBIZ7bw) 
 
 
-## 学习资源
+## 杂谈
 * [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://mp.weixin.qq.com/s/0NlCa_1NO3PuQEOUB1Bf9A)
 * [有了这个机器学习画图神器，论文、博客都可以事半功倍了！](https://mp.weixin.qq.com/s/Y3YUn6Ib7_LqHbaW0F7JgA)
 * [几种常用的多源遥感影像时空融合方法（附代码和插件）](https://mp.weixin.qq.com/s/lvwI59dDh85sNuRm1qnjDw)
