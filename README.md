@@ -4,10 +4,6 @@
 * [MKANet: An Efficient Network with Sobel Boundary Loss for Land-Cover Classification of Satellite Remote Sensing Imagery](https://www.mdpi.com/2072-4292/14/18/4514)
 * [Expandable On-Board Real-Time Edge Computing Architecture for Luojia3 Intelligent Remote Sensing Satellite](https://www.mdpi.com/2072-4292/14/15/3596) 
 
-
-## 学术会议录屏
-* [BaiduNetdisk](https://pan.baidu.com/s/1tI_A7xYL3DjZtjDsNj1zog?pwd=j2s4)
-
 ## 文献分享
 * [李彦胜教授：耦合知识图谱和深度学习的新一代遥感影像解译范式](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20210652)
 * [龚健雅院士：影像解译中的深度学习可解释性分析方法](https://mp.weixin.qq.com/s/T4FcwZaJJxIovruBl-0Siw) 
