@@ -19,6 +19,8 @@
 * [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
 * [智能遥感：AI 赋能遥感技术](https://mp.weixin.qq.com/s/l5bm-mP3yWS5PYnnYZOQAA)
 * [地球系统预测的未来：模型-数据融合的进展](https://mp.weixin.qq.com/s/3PmtdNuG43BurrTgQczAfA)
+* [CVPR 2021 论文大盘点-遥感影像篇](https://www.toutiao.com/article/7008086773607973387/?app=news_article&timestamp=1631714112&use_new_style=1&req_id=20210915215512010135164222350F41B4&group_id=7008086773607973387&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=03f7a9d5-297f-44e3-8d72-f9fb44370d06&source=m_redirect&wid=1663209093121) 
+
 
 
 ## 大牛视野
