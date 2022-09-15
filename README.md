@@ -32,6 +32,8 @@
 * [西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？](https://mp.weixin.qq.com/s/o9ABVxQSpIia3nAA0QWR7g)
 * [武大龚健雅院士：遥感智能解译深度网络框架LuojiaNET研究进展与应用前景](https://mp.weixin.qq.com/s/JHCgjxzjILvaCnp77cTYYA)
 * [武大龚健雅院士：智能遥感解译的研究进展与挑战](https://mp.weixin.qq.com/s/5y5AU2PWN6NGmEBp12O5_A)
+* [北理工龙腾院士：]( https://pan.baidu.com/s/1GjznwlVNzs1THcOXhppm7g?pwd=826r) 
+
 
 
 
