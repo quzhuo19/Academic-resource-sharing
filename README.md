@@ -34,6 +34,8 @@
 * [如何在 IEEE 期刊上发表文章：指导与技巧（视频）](https://mp.weixin.qq.com/s/FyBEje4LR03_CqqFhzRR7A)
 * [写好审稿回复信的8大要点（附模板）](https://mp.weixin.qq.com/s/Dep9HbxZNRBLbTO69fHGNA)
 * [SSCI发了还能再翻译发C刊吗？](https://mp.weixin.qq.com/s/Mrl_0o7T4_a_sC-0vHlJfA)
+* [当你动笔，成败已定--来自IEEE评审专家的体会与思考](https://news.whu.edu.cn/info/1002/50613.htm?from=groupmessage&isappinstalled=0) 
+
 
 
 ## 我的科研生活
