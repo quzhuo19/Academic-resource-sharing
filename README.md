@@ -65,3 +65,5 @@
 ### 工具书
 
 * [《Python编程：从入门到实践》]
+* [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587) 
+
