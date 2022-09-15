@@ -20,7 +20,7 @@
 * [李德仁院士：中国高分辨率光学遥感卫星及其测绘应用](https://mp.weixin.qq.com/s/oCX1vf7Qmrg-NrwzrKa_QQ) 
 * [杨元喜院士：集成型与智能型测绘卫星工程发展及其关键技术](https://mp.weixin.qq.com/s/0sgx2dCjOOOF3NwnaRp03g)
 * [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
-
+* [智能遥感：AI 赋能遥感技术](https://mp.weixin.qq.com/s/l5bm-mP3yWS5PYnnYZOQAA)
 
 
 
