@@ -69,7 +69,7 @@
 
  任务类型 | 名称 |下载链接
 ----------|------|----
- 语义分割 | Potsdam | [link](https://pan.baidu.com/s/1fhscrHxOdmutQAL2nOJd9w?pwd=pf53)
+ 语义分割 | Potsdam | [downlink](https://pan.baidu.com/s/1fhscrHxOdmutQAL2nOJd9w?pwd=pf53)
 
 
 
