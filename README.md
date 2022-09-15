@@ -78,5 +78,5 @@
 * [《Deep Learning》(花书)](https://pan.baidu.com/s/1RXQCcHExr3g8ftKcJlCqqQ?pwd=n587)
 
 ### 软件
- 
+* [ENVI 5.3](https://pan.baidu.com/s/1Szfspg4ZdSpcFeKXYD056Q?pwd=uv9a) [安装教程](https://blog.csdn.net/qq_45697428/article/details/118328147) 
 
