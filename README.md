@@ -14,10 +14,15 @@
 * [李德仁院士：新一代智能测绘遥感科学试验卫星珞珈三号01星](https://mp.weixin.qq.com/s/6NQIIp5rLeFcHtIdGiENVQ) 
 * [智能遥感：AI 赋能遥感技术](https://mp.weixin.qq.com/s/l5bm-mP3yWS5PYnnYZOQAA)
 * [龚健雅院士：遥感影像智能解译样本库现状与研究](https://mp.weixin.qq.com/s/HsX9XaYWDy-bT18AY0Nw3A)
-* [蓝朝桢教授：异源遥感影像特征匹配的深度学习算法](https://mp.weixin.qq.com/s/YTcC0Ip1Kx6srJf_0yHbJQ) 
+* [蓝朝桢教授：异源遥感影像特征匹配的深度学习算法](https://mp.weixin.qq.com/s/YTcC0Ip1Kx6srJf_0yHbJQ)
+* [王桥院士：地表异常遥感探测与即时诊断方法研究框架](https://mp.weixin.qq.com/s/kW8vWLkSlancwN6IkPF1NA)
+* [Jeff Dean：我们整理了一份「稀疏专家模型」研究综述](https://mp.weixin.qq.com/s/H02sBjfq2R1yOg2FB08UjQ)
 * [GSIS年终盘点 | 高关注论文TOP10](https://mp.weixin.qq.com/s/g095vF5eKBWPxP8kz1QKyA)
 * [CVPR 2021 论文大盘点-遥感影像篇](https://www.toutiao.com/article/7008086773607973387/?app=news_article&timestamp=1631714112&use_new_style=1&req_id=20210915215512010135164222350F41B4&group_id=7008086773607973387&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=03f7a9d5-297f-44e3-8d72-f9fb44370d06&source=m_redirect&wid=1663209093121)
- 
+
+* [Remote Sensing：2022 上半年院士文章精选 | MDPI 编辑荐读](https://mp.weixin.qq.com/s/KGG8ok-4c7zA1EJesblbWg)
+
+
 
 
 
@@ -40,7 +45,7 @@
 * [写好审稿回复信的8大要点（附模板）](https://mp.weixin.qq.com/s/Dep9HbxZNRBLbTO69fHGNA)
 * [SSCI发了还能再翻译发C刊吗？](https://mp.weixin.qq.com/s/Mrl_0o7T4_a_sC-0vHlJfA)
 * [当你动笔，成败已定--来自IEEE评审专家的体会与思考](https://news.whu.edu.cn/info/1002/50613.htm?from=groupmessage&isappinstalled=0) 
-
+* [作为审稿人，你什么情况下会选择拒稿？](https://www.zhihu.com/question/529489400/answer/2515023746?utm_campaign=shareopn&utm_medium=social&utm_oi=1456576931710271488&utm_psn=1561268373853519873&utm_source=wechat_session)
 
 
 ## 我的科研生活
@@ -77,5 +82,5 @@
 
 
 ### 软件
-* [ENVI 5.3](https://pan.baidu.com/s/1Szfspg4ZdSpcFeKXYD056Q?pwd=uv9a) [安装教程](https://blog.csdn.net/qq_45697428/article/details/118328147) 
+* [ENVI 5.3](https://pan.baidu.com/s/1Szfspg4ZdSpcFeKXYD056Q?pwd=uv9a) & [安装教程](https://blog.csdn.net/qq_45697428/article/details/118328147) 
 
