@@ -19,7 +19,6 @@
 * [Jeff Dean：我们整理了一份「稀疏专家模型」研究综述](https://mp.weixin.qq.com/s/H02sBjfq2R1yOg2FB08UjQ)
 * [GSIS年终盘点 | 高关注论文TOP10](https://mp.weixin.qq.com/s/g095vF5eKBWPxP8kz1QKyA)
 * [CVPR 2021 论文大盘点-遥感影像篇](https://www.toutiao.com/article/7008086773607973387/?app=news_article&timestamp=1631714112&use_new_style=1&req_id=20210915215512010135164222350F41B4&group_id=7008086773607973387&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=03f7a9d5-297f-44e3-8d72-f9fb44370d06&source=m_redirect&wid=1663209093121)
-
 * [Remote Sensing：2022 上半年院士文章精选 | MDPI 编辑荐读](https://mp.weixin.qq.com/s/KGG8ok-4c7zA1EJesblbWg)
 
 
@@ -46,6 +45,8 @@
 * [SSCI发了还能再翻译发C刊吗？](https://mp.weixin.qq.com/s/Mrl_0o7T4_a_sC-0vHlJfA)
 * [当你动笔，成败已定--来自IEEE评审专家的体会与思考](https://news.whu.edu.cn/info/1002/50613.htm?from=groupmessage&isappinstalled=0) 
 * [作为审稿人，你什么情况下会选择拒稿？](https://www.zhihu.com/question/529489400/answer/2515023746?utm_campaign=shareopn&utm_medium=social&utm_oi=1456576931710271488&utm_psn=1561268373853519873&utm_source=wechat_session)
+* [SCI发表阶段的任务、周期和投稿状态解读](https://mp.weixin.qq.com/s/IhHhpHWBF9GKcimwSuA5HA)
+
 
 
 ## 我的科研生活
@@ -60,6 +61,8 @@
 * [几种常用的多源遥感影像时空融合方法（附代码和插件）](https://mp.weixin.qq.com/s/lvwI59dDh85sNuRm1qnjDw)
 * [【深度学习训练】关于Batch Size的玄学](https://mp.weixin.qq.com/s/LcVQnQzszQ4UHN6E_OwtXQ)
 * [相较神经网络，大名鼎鼎的傅里叶变换，为何没有一统函数逼近器？答案在这](https://mp.weixin.qq.com/s/LCjkd-Cv3lXcghaR5IZqTQ) 
+* [科研人员的Dimensions：强大的一站式发现引擎](https://zhuanlan.zhihu.com/p/73988895?utm_campaign=shareopn&utm_medium=social&utm_oi=1456576931710271488&utm_psn=1558217630938234881&utm_source=wechat_session)
+
 
 ## 深度学习入门
 
